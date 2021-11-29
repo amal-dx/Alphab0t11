@@ -1,6 +1,6 @@
 # ```SELF-BOT```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/amal-dx/DXTROX-)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/amal-dx/Alphab0t11)
 <p align="center">
 <a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
 <a href="https://github.com/zeeoneofc/Alphab0t11/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeoneofc/Alphab0t11?color=blue&style=flat-square"></a>
